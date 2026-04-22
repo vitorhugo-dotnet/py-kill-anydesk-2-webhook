@@ -5,10 +5,10 @@ import time
 import psutil
 import requests
 
-WEBHOOK_URL = "https://n8n.hugojava.dev/webhook/vitordesktopwin11"
+WEBHOOK_URL = "..."
 POLL_INTERVAL = 10
-AUTH_USER = "vitorhugo"
-AUTH_PASS = "4Vitor1207010203!"
+AUTH_USER = "..."
+AUTH_PASS = "..."
 RESTART_DELAY = 2
 
 
